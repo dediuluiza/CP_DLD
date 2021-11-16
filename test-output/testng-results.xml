@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-16T16:04:44 EET" name="Default suite" finished-at="2021-11-16T16:05:19 EET" duration-ms="35530">
+    <groups>
+    </groups>
+    <test started-at="2021-11-16T16:04:44 EET" name="Default test" finished-at="2021-11-16T16:05:19 EET" duration-ms="35530">
+      <class name="test.TestChallengingPomPage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.TestChallengingPomPage@1e1a0406]" started-at="2021-11-16T16:04:44 EET" name="setup" finished-at="2021-11-16T16:04:48 EET" duration-ms="4825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="checkButtons()[pri:0, instance:test.TestChallengingPomPage@1e1a0406]" started-at="2021-11-16T16:04:48 EET" name="checkButtons" finished-at="2021-11-16T16:05:14 EET" duration-ms="26048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkButtons -->
+        <test-method signature="checkCanvasAnswer()[pri:0, instance:test.TestChallengingPomPage@1e1a0406]" started-at="2021-11-16T16:05:15 EET" name="checkCanvasAnswer" finished-at="2021-11-16T16:05:15 EET" duration-ms="454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCanvasAnswer -->
+        <test-method signature="checkDeleteLnk()[pri:0, instance:test.TestChallengingPomPage@1e1a0406]" started-at="2021-11-16T16:05:15 EET" name="checkDeleteLnk" finished-at="2021-11-16T16:05:15 EET" duration-ms="279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkDeleteLnk -->
+        <test-method signature="checkEditLnk()[pri:0, instance:test.TestChallengingPomPage@1e1a0406]" started-at="2021-11-16T16:05:15 EET" name="checkEditLnk" finished-at="2021-11-16T16:05:16 EET" duration-ms="295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkEditLnk -->
+        <test-method signature="checkIfBrowserIsOpen()[pri:0, instance:test.TestChallengingPomPage@1e1a0406]" started-at="2021-11-16T16:05:16 EET" name="checkIfBrowserIsOpen" finished-at="2021-11-16T16:05:16 EET" duration-ms="210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkIfBrowserIsOpen -->
+        <test-method signature="checkLinksToGitHub()[pri:0, instance:test.TestChallengingPomPage@1e1a0406]" started-at="2021-11-16T16:05:16 EET" name="checkLinksToGitHub" finished-at="2021-11-16T16:05:18 EET" duration-ms="1786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLinksToGitHub -->
+        <test-method signature="checkPagetitle()[pri:0, instance:test.TestChallengingPomPage@1e1a0406]" started-at="2021-11-16T16:05:18 EET" name="checkPagetitle" finished-at="2021-11-16T16:05:18 EET" duration-ms="313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPagetitle -->
+        <test-method signature="checkTable()[pri:0, instance:test.TestChallengingPomPage@1e1a0406]" started-at="2021-11-16T16:05:18 EET" name="checkTable" finished-at="2021-11-16T16:05:19 EET" duration-ms="887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTable -->
+        <test-method signature="checkTextheader()[pri:0, instance:test.TestChallengingPomPage@1e1a0406]" started-at="2021-11-16T16:05:19 EET" name="checkTextheader" finished-at="2021-11-16T16:05:19 EET" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTextheader -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.TestChallengingPomPage@1e1a0406]" started-at="2021-11-16T16:05:19 EET" name="closeBrowser" finished-at="2021-11-16T16:05:19 EET" duration-ms="364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.TestChallengingPomPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
